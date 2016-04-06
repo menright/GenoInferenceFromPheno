@@ -1,0 +1,54 @@
+White & Black	AA	BB	SpSp
+White & Black	AA	BB	SpSw
+White & Black	AA	Bb	SpSp
+White & Black	AA	Bb	SpSw
+White & Black	AAt	BB	SpSp
+White & Black	AAt	BB	SpSw
+White & Black	AAt	Bb	SpSp
+White & Black	AAt	Bb	SpSw
+White & Black (Extreme White)	AA	BB	SwSw
+White & Black (Extreme White)	AA	Bb	SwSw
+White & Black (Extreme White)	AAt	BB	SwSw
+White & Black (Extreme White)	AAt	Bb	SwSw
+White & Chocolate	AA	bb	SpSp
+White & Chocolate	AA	bb	SpSw
+White & Chocolate (Extreme White)	AA	bb	SwSw
+White & Tan	AAy	BB	SpSp
+White & Tan	AAy	BB	SpSw
+White & Tan	AAy	Bb	SpSp
+White & Tan	AAy	Bb	SpSw
+White & Tan	AAy	bb	SpSp
+White & Tan	AAy	bb	SpSw
+White & Tan	AtAy	BB	SpSp
+White & Tan	AtAy	BB	SpSw
+White & Tan	AtAy	Bb	SpSp
+White & Tan	AtAy	Bb	SpSw
+White & Tan	AtAy	bb	SpSp
+White & Tan	AtAy	bb	SpSw
+White & Tan	AyAy	BB	SpSp
+White & Tan	AyAy	BB	SpSw
+White & Tan	AyAy	Bb	SpSp
+White & Tan	AyAy	Bb	SpSw
+White & Tan	AyAy	bb	SpSp
+White & Tan	AyAy	bb	SpSw
+White & Tan (Extreme White)	AAy	BB	SwSw
+White & Tan (Extreme White)	AAy	Bb	SwSw
+White & Tan (Extreme White)	AAy	bb	SwSw
+White & Tan (Extreme White)	AtAy	BB	SwSw
+White & Tan (Extreme White)	AtAy	Bb	SwSw
+White & Tan (Extreme White)	AtAy	bb	SwSw
+White & Tan (Extreme White)	AyAy	BB	SwSw
+White & Tan (Extreme White)	AyAy	Bb	SwSw
+White & Tan (Extreme White)	AyAy	bb	SwSw
+White Black & Tan	AtAt	BB	SpSp
+White Black & Tan	AtAt	BB	SpSw
+White Black & Tan	AtAt	Bb	SpSp
+White Black & Tan	AtAt	Bb	SpSw
+White Black & Tan (Extreme White)	AtAt	BB	SwSw
+White Black & Tan (Extreme White)	AtAt	Bb	SwSw
+White, Chocolate & Tan	AAt	bb	SpSp
+White, Chocolate & Tan	AAt	bb	SpSw
+White, Chocolate & Tan	AtAt	bb	SpSp
+White, Chocolate & Tan	AtAt	bb	SpSw
+White, Chocolate & Tan (Extreme White)	AAt	bb	SwSw
+White, Chocolate & Tan (Extreme White)	AtAt	bb	SwSw
